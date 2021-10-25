@@ -2213,19 +2213,19 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "#",
+        href: " https://t.me/mermaidswapgroup",
         // href: "https://t.me/unicorndefigroup",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "#",
+        href: "https://twitter.com/MermaidSwap",
         // href: "https://twitter.com/UnicornDeFi", //  "https://twitter.com/goosedefi",
     },
     {
         label: "Reddit",
         icon: "RedditIcon",
-        href: "#",
+        href: "https://kmge.gitbook.io/mermaid-swap/",
         // href: "https://app.gitbook.com/@unicorn-finance/s/unicorn-finance/", //https://www.reddit.com/r/GooseFinanceofficial",
     },
 ];
