@@ -13,6 +13,7 @@ import * as IconModule from "./icons";
 import { socials, MENU_ENTRY_HEIGHT } from "./config";
 import { PanelProps, PushedProps } from "./types";
 import { padding } from "styled-system";
+import rugdoc from "../../../src/Rugdoc.png";
 
 interface Props extends PanelProps, PushedProps {}
 
@@ -79,7 +80,7 @@ const PanelFooter: React.FC<Props> = ({
   return (
     <Container>
       <img
-        src="https://rugdoc.io/assets/2021/06/rugdoc-review-badge-with-glow.png"
+        src={rugdoc}
         alt="rugdocimage"
         style={{ width: "100%" }}
       />
