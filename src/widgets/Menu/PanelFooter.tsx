@@ -78,17 +78,17 @@ const PanelFooter: React.FC<Props> = ({
 
   return (
     <Container>
-      {/* <img
+      <img
         src="https://rugdoc.io/assets/2021/06/rugdoc-review-badge-with-glow.png"
         alt="rugdocimage"
         style={{ width: "100%" }}
       />
 
-      <img src="https://jagosafer.io/flags/greenflag.svg" 
+      {/* <img src="https://jagosafer.io/flags/greenflag.svg" 
       alt="jago flag" 
       
-      style={{ width: "100%",paddingLeft:20,paddingRight:20 }} */}
-      {/* /> */}
+      style={{ width: "100%",paddingLeft:20,paddingRight:20 }}
+       /> */}
       <Flex>
         <SocialEntry>
           {cakePriceUsd ? (
