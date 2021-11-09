@@ -80,7 +80,7 @@ const PanelFooter: React.FC<Props> = ({
 
   return (
     <Container>
-      <img src="src/widgets/Menu/Rugdoc.png" alt="rugdocimage" style={{ width: "100%" }} />
+      <img src="/src/widgets/Menu/Rugdoc.png" alt="rugdocimage1" style={{ width: "100%" }} />
 
       {/* <img src="https://jagosafer.io/flags/greenflag.svg" 
       alt="jago flag" 

@@ -2357,7 +2357,7 @@ var PanelFooter = function (_a) {
                 React__default["default"].createElement(Icon$S, null))));
     }
     return (React__default["default"].createElement(Container, null,
-        React__default["default"].createElement("img", { src: "src/widgets/Menu/Rugdoc.png", alt: "rugdocimage", style: { width: "100%" } }),
+        React__default["default"].createElement("img", { src: "/src/widgets/Menu/Rugdoc.png", alt: "rugdocimage1", style: { width: "100%" } }),
         React__default["default"].createElement(Flex, null,
             React__default["default"].createElement(SocialEntry, null, cakePriceUsd ? (React__default["default"].createElement(PriceLink, { href: priceLink, target: "_blank" },
                 React__default["default"].createElement(Icon$I, { width: "24px", mr: "8px" }),
