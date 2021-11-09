@@ -81,11 +81,11 @@ const PanelFooter: React.FC<Props> = ({
 
   return (
     <Container>
-      <img
-        src="https://github.com/MERMAIDSWAP-MERD/Mermaid-UI-Kit/blob/master/src/widgets/Menu/Rugdoc.png"
+      {/* <img
+        src=""
         alt="rugdocimage1"
         style={{ width: "100%" }}
-      />
+      /> */}
 
       {/* <img src="https://jagosafer.io/flags/greenflag.svg" 
       alt="jago flag" 
