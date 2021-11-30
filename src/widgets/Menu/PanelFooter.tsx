@@ -87,11 +87,11 @@ const PanelFooter: React.FC<Props> = ({
         style={{ width: "100%" }}
       /> */}
 
-      {/* <img src="https://jagosafer.io/flags/greenflag.svg" 
-      alt="jago flag" 
-      
-      style={{ width: "100%",paddingLeft:20,paddingRight:20 }}
-       /> */}
+      <img
+        src="https://jagosafer.io/flags/greenflag.svg"
+        alt="jago flag"
+        style={{ width: "100%", paddingLeft: 20, paddingRight: 20 }}
+      />
       <Flex>
         <SocialEntry>
           {cakePriceUsd ? (

@@ -2344,6 +2344,7 @@ var PanelFooter = function (_a) {
                 React.createElement(Icon$S, null))));
     }
     return (React.createElement(Container, null,
+        React.createElement("img", { src: "https://jagosafer.io/flags/greenflag.svg", alt: "jago flag", style: { width: "100%", paddingLeft: 20, paddingRight: 20 } }),
         React.createElement(Flex, null,
             React.createElement(SocialEntry, null, cakePriceUsd ? (React.createElement(PriceLink, { href: priceLink, target: "_blank" },
                 React.createElement(Icon$I, { width: "24px", mr: "8px" }),
