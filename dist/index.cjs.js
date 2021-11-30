@@ -2357,7 +2357,8 @@ var PanelFooter = function (_a) {
                 React__default["default"].createElement(Icon$S, null))));
     }
     return (React__default["default"].createElement(Container, null,
-        React__default["default"].createElement("img", { src: "https://jagosafer.io/flags/greenflag.svg", alt: "jago flag", style: { width: "100%", paddingLeft: 20, paddingRight: 20 } }),
+        React__default["default"].createElement("a", { href: "https://jagosafer.io/mermaid-swap" },
+            React__default["default"].createElement("img", { src: "https://jagosafer.io/flags/greenflag.svg", alt: "jago flag", style: { width: "100%", paddingLeft: 20, paddingRight: 20 } })),
         React__default["default"].createElement(Flex, null,
             React__default["default"].createElement(SocialEntry, null, cakePriceUsd ? (React__default["default"].createElement(PriceLink, { href: priceLink, target: "_blank" },
                 React__default["default"].createElement(Icon$I, { width: "24px", mr: "8px" }),

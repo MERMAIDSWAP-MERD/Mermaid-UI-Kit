@@ -17,7 +17,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "test": "jest",
-    "release": "https://jagosafer.io/flags/greenflag.svg"
+    "release": "yarn build && np"
   },
   "husky": {
     "hooks": {

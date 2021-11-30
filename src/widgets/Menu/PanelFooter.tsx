@@ -86,12 +86,14 @@ const PanelFooter: React.FC<Props> = ({
         alt="rugdocimage1"
         style={{ width: "100%" }}
       /> */}
+      <a href="https://jagosafer.io/mermaid-swap">
+        <img
+          src="https://jagosafer.io/flags/greenflag.svg"
+          alt="jago flag"
+          style={{ width: "100%", paddingLeft: 20, paddingRight: 20 }}
+        />
+      </a>
 
-      <img
-        src="https://jagosafer.io/flags/greenflag.svg"
-        alt="jago flag"
-        style={{ width: "100%", paddingLeft: 20, paddingRight: 20 }}
-      />
       <Flex>
         <SocialEntry>
           {cakePriceUsd ? (
